@@ -1,0 +1,23 @@
+{
+  "name": "kilovolt",
+  "version": "1.0.0",
+  "description": "A blog about things I'll never understand",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbiehle/07-nodejs-and-npm.git"
+  },
+  "author": "La Januari and Drew Biehle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbiehle/07-nodejs-and-npm/issues"
+  },
+  "homepage": "https://github.com/dbiehle/07-nodejs-and-npm#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
